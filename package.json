@@ -1,0 +1,20 @@
+{
+    "name": "toyRobotSimulator",
+    "version": "1.0.0",
+    "description": "The application is a simulation of a toy robot moving on a square tabletop",
+    "main": "start.js",
+    "scripts": {
+        "test": "jasmine",
+        "start": "node start.js"
+    },
+    "keywords": [
+        "lookahead.com.au",
+        "test",
+        "task",
+        "toy",
+        "robot",
+        "simulator"
+    ],
+    "author": "Sergey Reznikov",
+    "license": "ISC"
+}
